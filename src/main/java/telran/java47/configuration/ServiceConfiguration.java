@@ -1,4 +1,4 @@
-package telran.java47.configuration;
+ package telran.java47.configuration;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.config.Configuration.AccessLevel;
